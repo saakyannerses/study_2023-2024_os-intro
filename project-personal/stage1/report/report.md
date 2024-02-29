@@ -118,8 +118,7 @@ header-includes:
 
 ![Создаем новый репозиторий](image/9.jpg){#fig:009 width=70%}
 
-Клонируем репозиторий mkarapaaa.github.io
-
+Клонируем репозиторий saakyannerses.github.io 
 ![Клонируем репозиторий](image/10.jpg){#fig:010 width=70%}
 
 Подключим ветку main
